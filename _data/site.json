@@ -1,0 +1,47 @@
+{
+  "slug": "sk-energymont",
+  "nazev": "Energymont",
+  "url": "https://webhunter-navrhy.github.io/sk-energymont/",
+  "base": "/sk-energymont/",
+  "lang": "sk",
+  "popis": "Energymont, Dolná Seč: silnoprúdové elektroinštalácie, bleskozvody, prípojky, fotovoltika Huawei a revízie pre priemyselné aj súkromné objekty od roku 1992.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "rozvadzac-meranie.jpg",
+  "logo": "logo.png",
+  "theme_color": "#110055",
+  "typ": "LocalBusiness",
+  "ico": "32573294",
+  "kontakt": {
+    "email": "",
+    "telefon": "+421 905 380 114",
+    "adresa": {
+      "ulice": "Dolná Seč 238",
+      "psc": "935 31",
+      "mesto": "Dolná Seč",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu Energymont"
+  },
+  "nav": [
+    {
+      "text": "Služby",
+      "href": "#sluzby"
+    },
+    {
+      "text": "O firme",
+      "href": "#o-nas"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

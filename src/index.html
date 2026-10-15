@@ -1,0 +1,85 @@
+{% extends "_base.html" %}
+{% set titulek = 'Energymont – elektroinštalácie a bleskozvody, Dolná Seč' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="wrap hero-g">
+    <div class="hero-text">
+      <p class="stitok"><span>od roku 1992</span> Dolná Seč</p>
+      <h1>Silnoprúdové elektroinštalácie v priemyselných aj súkromných objektoch</h1>
+      <p class="hero-lead">Aj vrátane bleskozvodov a v oblasti slaboprúdových rozvodov. Naše zákazky robia skúsení pracovníci s predpísanými skúškami podľa platných STN.</p>
+      <div class="hero-cta">
+        <a class="tlacitko" href="#kontakt">Požiadať o cenovú ponuku</a>
+        <a class="tlacitko tl-ghost" href="#sluzby">Čo robíme</a>
+      </div>
+    </div>
+    <div class="hero-foto">
+      {{ img('rozvadzac-meranie.jpg', 'Elektrikár meria na rozvádzači', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    </div>
+  </div>
+  <ul class="hero-pruh wrap" role="list" aria-label="Rozsah služieb">
+    {% for s in data.sluzby %}<li><a href="#{{ s.id }}"><i aria-hidden="true"></i>{{ s.nazev }}</a></li>{% endfor %}
+  </ul>
+</section>
+
+<section class="sekce schema" id="sluzby">
+  <div class="wrap">
+    <header class="sekce-hlava">
+      <p class="stitok stitok-tm">Služby</p>
+      <h2>Od prípojky po revíziu: celá cesta prúdu na jednom mieste</h2>
+      <p>Postaráme sa o prívod, rozvody, ochranu pred bleskom aj o skúšky, ktoré potvrdia, že všetko spĺňa normy.</p>
+    </header>
+    <ol class="trasa" role="list">
+      {% for s in data.sluzby %}
+      <li class="uzol {{ 'rev' if loop.index is even }} {{ 'siroka' if s.siroka }}" id="{{ s.id }}">
+        <span class="uzol-bod" aria-hidden="true"></span>
+        <div class="uzol-text">
+          <p class="uzol-cislo">{{ s.kicker }}</p>
+          <h3>{{ s.nazev }}</h3>
+          <p>{{ s.popis }}</p>
+          <p class="radek">{{ s.radek }}</p>
+        </div>
+        <div class="uzol-foto">{{ img(s.foto, s.alt, sizes='(min-width: 60rem) 28rem, 90vw') }}</div>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="sekce o-nas" id="o-nas">
+  <div class="wrap o-g">
+    <div class="o-foto">{{ img('o-nas-2.jpg', 'Montáž zásuvky pri elektroinštalácii', sizes='(min-width: 60rem) 32rem, 100vw') }}</div>
+    <div class="o-text">
+      <p class="stitok">O firme</p>
+      <h2>Elektroinštalácie robíme už viac ako 30 rokov</h2>
+      <p>Spoločnosť Energymont so sídlom v Dolnej Seči zabezpečuje kompletné silnoprúdové elektroinštalácie pre súkromné aj priemyselné objekty od roku 1992. Pre akékoľvek budovy: od výrobných hál cez obchodné priestory a kancelárie až po rodinné domy a byty.</p>
+      <p>Máme za sebou zákazky pre developerov, nákupné centrá, obce a mestá. Pre obce zabezpečujeme aj káblové rozvody verejného osvetlenia s LED technológiou a inteligentným riadením.</p>
+      <div class="opravnenia">
+        <h3>Oprávnenia a normy</h3>
+        <ul role="list">
+          <li>osvedčenia podľa vyhlášky MPSVaR 508/2009 Z. z.</li>
+          <li>skúšky pracovníkov podľa platných STN</li>
+          <li>silnoprúdové rozvody nad 1000 V</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sekce kontakt" id="kontakt">
+  <div class="wrap k-g">
+    <div class="k-info">
+      <p class="stitok">Kontakt</p>
+      <h2>Pripravíme návrh aj cenovú ponuku na mieru</h2>
+      <p>Napíšte nám, čo potrebujete: elektroinštaláciu, prípojku, bleskozvod, fotovoltiku alebo revíziu. Ozveme sa Vám.</p>
+      <address>
+        <strong>Energymont</strong><br>
+        Dolná Seč 238<br>
+        935 31 Dolná Seč<br>
+        <a class="tel" href="tel:{{ site.kontakt.telefon|replace(' ', '') }}">{{ site.kontakt.telefon }}</a>
+      </address>
+    </div>
+    <div class="k-form">{% include "_formular.html" %}</div>
+  </div>
+</section>
+{% endblock %}

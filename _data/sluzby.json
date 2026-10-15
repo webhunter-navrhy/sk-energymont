@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pripojky",
+    "cislo": "01",
+    "nazev": "Prípojky",
+    "kicker": "Prívod",
+    "foto": "pripojky.jpg",
+    "alt": "Rozvádzač s ističmi a svorkami",
+    "popis": "Pre budúci rodinný dom pripravíme aj namontujeme elektrickú prípojku podľa STN 35 9754 a STN 33 3320:2002. Návrh a projektovú dokumentáciu vypracuje náš projektant, súčasťou je východisková revízna správa.",
+    "radek": "NN a VN prípojky · projektová dokumentácia · východisková revízna správa",
+    "siroka": false
+  },
+  {
+    "id": "elektroinstalacie",
+    "cislo": "02",
+    "nazev": "Elektroinštalácie",
+    "kicker": "Rozvody",
+    "foto": "rozvadzac.jpg",
+    "alt": "Rozvádzač s popísanými ističmi",
+    "popis": "Kompletné elektroinštalačné práce na mieru: osvetlenie, zásuvky a vypínače, riadené vykurovanie, vetranie, počítačové siete, kamery či ovládanie brán. Vrátane verejného osvetlenia s LED technológiou pre obce a mestá.",
+    "radek": "obchodné priestory a administratívne budovy · priemyselné, výrobné a skladové haly · byty a rodinné domy",
+    "siroka": false
+  },
+  {
+    "id": "bleskozvody",
+    "cislo": "03",
+    "nazev": "Bleskozvody",
+    "kicker": "Ochrana",
+    "foto": "bleskozvody.jpg",
+    "alt": "Bleskozvod na streche rozsiahlej haly",
+    "popis": "Zrealizujeme aktívne, pasívne aj klasické zariadenia na ochranu pred bleskom. Bleskozvod po montáži prejde odbornou prehliadkou a skúškou, tú vieme zabezpečiť tiež.",
+    "radek": "aktívne bleskozvody · pasívne bleskozvody · klasická ochrana pred bleskom",
+    "siroka": false
+  },
+  {
+    "id": "fotovoltika",
+    "cislo": "04",
+    "nazev": "Fotovoltika Huawei",
+    "kicker": "Výroba",
+    "foto": "fotovoltika.jpg",
+    "alt": "Fotovoltické panely na streche rodinného domu",
+    "popis": "Kompletná inštalácia fotovoltiky s Huawei invertermi pre domácnosti aj ďalšie priestory v Leviciach a okolí.",
+    "radek": "fotovoltické panely · Huawei invertery · pripojenie do domovej siete",
+    "siroka": false
+  },
+  {
+    "id": "revizie",
+    "cislo": "05",
+    "nazev": "Revízie",
+    "kicker": "Kontrola",
+    "foto": "revizie.jpg",
+    "alt": "Meranie na rozvádzači pri revízii",
+    "popis": "Východiskové a pravidelné odborné prehliadky a skúšky elektrických zariadení do 1000 V podľa vyhlášky 508/2009 Z. z. v objektoch triedy A.",
+    "radek": "východiskové revízie · pravidelné revízie · bleskozvody, silnoprúd aj slaboprúd",
+    "siroka": false
+  }
+]

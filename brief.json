@@ -1,0 +1,245 @@
+{
+ "slug": "energymont",
+ "zdroj_url": "https://www.pmenergymont.sk/",
+ "firma": "Energymont",
+ "obor": [
+  "stavebnictví a řemesla",
+  "sport a výuka"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [],
+  "telefony": [
+   "+421 905 380 114"
+  ],
+  "adresa": "Dolná Seč 238, 935 31 Dolná Seč",
+  "socialni_site": [
+   "https://facebook.com/",
+   "https://www.instagram.com/",
+   "https://www.youtube.com/"
+  ]
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://www.pmenergymont.sk/images/logo-1.png",
+  "rozmery": [
+   327,
+   56
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#110055",
+   "#00f566",
+   "#771f1f",
+   "#8cff92"
+  ],
+  "z_loga": [],
+  "theme_color": null,
+  "doporucene": [
+   "#110055",
+   "#00f566"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://www.pmenergymont.sk/images/slide-1.jpg",
+   "sirka": 1920,
+   "vyska": 508,
+   "alt": "Slider N - Slajd #1"
+  },
+  {
+   "soubor": "podklady/foto/foto-02.jpg",
+   "url": "https://www.pmenergymont.sk/images/slide-2.jpg",
+   "sirka": 1920,
+   "vyska": 508,
+   "alt": "Slider N - Slajd #2"
+  },
+  {
+   "soubor": "podklady/foto/foto-03.jpg",
+   "url": "https://www.pmenergymont.sk/images/slide-3.jpg",
+   "sirka": 1920,
+   "vyska": 508,
+   "alt": "Slider N - Slajd #3"
+  },
+  {
+   "soubor": "podklady/foto/foto-04.jpg",
+   "url": "https://www.pmenergymont.sk/images/o-nas-uvod.jpg",
+   "sirka": 750,
+   "vyska": 544,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "Silnoprúdové elektroinštalácie v priemyslových a súkromných objektoch",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Bleskozvody",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Elektroinštalácie",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Fotovoltika Huawei",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Prípojky",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Kvalita",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Rýchlosť",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Spoľahlivosť",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Prístup",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "O nás",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ponuka Bleskozvody Elektroinštalácie Fotovoltika Huawei Prípojky Revízie",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kontakt Zásady používania súborov cookies Ochrana súkromia",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Naše zákazky sú realizované skúsenými pracovníkmi s praxou a predpísanými skúškami podľa platných STN.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Naše zákazky sú realizované skúsenými pracovníkmi s praxou a predpísanými skúškami podľa platných STN.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Naše zákazky sú realizované skúsenými pracovníkmi s praxou a predpísanými skúškami podľa platných STN.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Aj vrátane bleskozvodov a v oblasti slaboprúdových rozvodov",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Energymont funguje v oblasti silnoprúdových elektroinštalácií nad 1000V v priemyslových a súkromných objektov vrátane bleskozvodov a v oblasti slaboprúdových rozvodov od roku 1992.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Naše zákazky sú realizované skúsenými pracovníkmi s praxou a predpísanými skúškami podľa platných STN. Realizovali sme veľké množstvo elektroinštalácí a bleskozvodov. O kvalite vykonanej práce svedčí predovšetkým spokojnosť všetkých zakazníkov.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Už od roku 1992 zabezpečujeme kompletné: ✓ elektroinštalácie a rozvody ✓ prípojky ✓ verejné osvetlenie ✓ fotovoltika Huawei ✓ odborné revízie Neváhajte a v prípade záujmu nás kontaktujte. Radi pre Vás pripravíme kompletný návrh i cenovú ponuku na mieru. Tešíme sa na spoluprácu.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Neváhajte a v prípade záujmu nás kontaktujte. Radi pre Vás pripravíme kompletný návrh i cenovú ponuku na mieru. Tešíme sa na spoluprácu.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Táto e-mailová adresa je chránená pred spamovacími robotmi. Na jej zobrazenie potrebujete mať nainštalovaný JavaScript.",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ponuka Bleskozvody Elektroinštalácie Fotovoltika Huawei Prípojky Revízie",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kontakt Zásady používania súborov cookies Ochrana súkromia",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "2024 (c) Tvorba web stránok od spoločnosti WeNet SK, s.r.o. | SEO & PPC | Zásady ochrany osobných údajov",
+   "zdroj": "https://www.pmenergymont.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dolná Seč 238, 935 31 Dolná Seč",
+   "zdroj": "https://pmenergymont.sk/kontakt"
+  },
+  {
+   "typ": "odstavec",
+   "text": "zákazky pre developerov, nákupné centrá, obce a mestá; káblové rozvody verejného osvetlenia s LED technológiou a inteligentným riadením",
+   "zdroj": "https://pmenergymont.sk/o-nas"
+  },
+  {
+   "typ": "odstavec",
+   "text": "STN 35 9754 a STN 33 3320:2002 (prípojky)",
+   "zdroj": "https://pmenergymont.sk/ponuka/pripojky"
+  },
+  {
+   "typ": "odstavec",
+   "text": "vyhláška MPSVaR 508/2009 Z. z. (bleskozvody, revízie)",
+   "zdroj": "https://pmenergymont.sk/ponuka/revizie"
+  },
+  {
+   "typ": "odstavec",
+   "text": "fotovoltika Huawei v Leviciach a okolí",
+   "zdroj": "https://pmenergymont.sk/ponuka/fotovoltika-huawei"
+  },
+  {
+   "typ": "odstavec",
+   "text": "elektroinštalácie a bleskozvody v Leviciach a okolí",
+   "zdroj": "https://pmenergymont.sk/ponuka/bleskozvody"
+  },
+  {
+   "typ": "odstavec",
+   "text": "viac ako 30 rokov na trhu, od roku 1992",
+   "zdroj": "https://pmenergymont.sk/o-nas"
+  },
+  {
+   "typ": "odstavec",
+   "text": "osvetlenie, zásuvky a vypínače, riadené vykurovanie, vetranie či rekuperácia, počítačové siete, kamerové systémy, ovládanie vstupnej a garážovej brány",
+   "zdroj": "https://pmenergymont.sk/ponuka/elektroinstalacie"
+  }
+ ],
+ "chybi": [
+  "e-mail",
+  "IČO",
+  "fotky firmy/provozu/produktů (nalezeno 4, potřeba aspoň 6)",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Spoločnosť Energymont so sídlom v obci Dolná Seč zabezpečuje kompletné silnoprúdové elektroinštalácie nad 1000V pre súkromné aj priemyselné objekty už od roku 1992..."
+}

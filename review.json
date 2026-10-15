@@ -1,0 +1,16 @@
+{
+  "znamka": 7,
+  "slabiny": [
+    "Hlavička na mobilu (390/360 px): logo ENERGYMONT je vodorovně smáčknuté. Poměr stran 327×56 se nedodržel, písmo vypadá jako zúžený řez a nesedí s logem na PC. Obrázku loga nastavit pevnou výšku (např. 28 px), width:auto, flex-shrink:0 a object-fit:contain, a pokud se nevejde, zúžit tlačítko „Cenová ponuka“, ne logo.",
+    "Sekce Služby na PC (Fotovoltika Huawei): fotka panelů je široká 144–784 px, kříží středovou linku „cesty prúdu“ a leží pod textem ve stejném sloupci. Tím se rozpadá cik-cak, který drží celý koncept. Dát ji do pravého sloupce o stejné šířce jako ostatní fotky. U Prípojek nahradit fotku bahnitého pole s pilíři záběrem skříně nebo přípojky z webu klienta (podstránka /ponuka/pripojky). Teď nic neříká a je nejslabší fotkou stránky.",
+    "Pás služeb pod hero na mobilu: ukazuje jen Prípojky, Elektroinštalácie a Bleskozvody. Fotovoltika a Revízie jsou mimo obrazovku bez náznaku, že jde posunout, takže to vypadá jako tři služby. Na mobilu pás rozložit do 2 řádků (flex-wrap) nebo ho nahradit svislým seznamem s uzly jako ve sloupci Služby. Zároveň ověřit podle podstránek zdroj u výčtů „kamery či ovládanie brán, riadené vykurovanie, vetranie, počítačové siete“. V brief.json nejsou, a pokud se nepotvrdí, odstranit je."
+  ],
+  "silne": [
+    "Brand klienta drží: tmavě modrá #110055 a zelená #00f566 z jeho webu, logo vlevo v hlavičce, jedna rodina písma (Archivo) s háčky v pořádku.",
+    "Koncept „cesta prúdu“ (od prípojky po revíziu) z oboru: linka s uzly jde od hero přes všechny služby, nejde jen o dekoraci hero.",
+    "Pravdivé údaje se zdrojem: od roku 1992, 30+ rokov, normy STN a vyhláška 508/2009, Dolná Seč. Žádné vymyšlené recenze ani statistiky.",
+    "Jasná konverze: telefon a „Cenová ponuka“ v hlavičce, výrazné CTA v hero a kontaktní formulář s adresou a telefonem. QA je bez přetečení na všech 6 šířkách a stránka má jen 0,46 MB."
+  ],
+  "verdikt": "Solidní, poctivý redesign v barvách klienta s nápadem z oboru. Smáčknuté logo na mobilu, rozbitý cik-cak u Fotovoltiky a slabá fotka u Prípojek ho ale drží pod hranicí pro odeslání. Opravit tyto tři body a pak znovu posoudit.",
+  "_hash": "4821023bf9d470c17aca431dbced7e184417ec66"
+}
